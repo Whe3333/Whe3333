@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whe3333
 - 👀 I’m interested in igloos.
-- 🌱 I’m currently learning how to center a /<div/>.
+- 🌱 I’m currently learning how to center a div.
 - 💞️ I’m looking to collaborate on anything but front-end. CSS is tedious man.
 - 📫 How to reach me? Go to Antarctica or call me or something idk.
 
